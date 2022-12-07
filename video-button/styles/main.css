@@ -11,14 +11,11 @@ body {
   margin-top: 150px;
 }
 
-
-
 .logotipo{
   width: 150px;
   margin: 0 auto; 
   transform:translateY(60%);
 }
-
 
 .video-container {
   height: 150px;
